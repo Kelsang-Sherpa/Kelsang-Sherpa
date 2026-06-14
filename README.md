@@ -52,6 +52,9 @@ Expected Graduation: December 2026
 
 ### Tools & Platforms
 
+* ESP 32
+* Raspberry Pi
+* Cisco Packet Tracer
 * Arduino IDE
 * GitHub
 * Multisim
