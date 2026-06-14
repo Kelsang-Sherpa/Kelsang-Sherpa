@@ -1,16 +1,53 @@
-## Hi there 👋
+## Technical Skills
 
-<!--
-**Kelsang-Sherpa/Kelsang-Sherpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Languages
+- C++
+- C
+- Python
+- Arduino
 
-Here are some ideas to get you started:
+### Embedded Systems
+- ESP32 Development
+- Raspberry Pi
+- Microcontroller Programming
+- Sensor Integration
+- GPIO Programming
+- PWM Control
+- Interrupt Handling
+- Serial Communication
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Communication Protocols
+- UART
+- I2C
+- SPI
+
+### Hardware & Electronics
+- Breadboarding
+- Circuit Debugging
+- PIR Motion Sensors
+- Ultrasonic Sensors (HC-SR04)
+- LCD Interfacing
+- RGB LED Control
+- Push Button Integration
+
+### Networking
+- Cisco Packet Tracer
+- TCP/IP Fundamentals
+- VLAN Configuration
+- Routing & Switching
+- Network Troubleshooting
+
+### Tools & Platforms
+- Arduino IDE
+- Git
+- GitHub
+- Multisim
+- Wireshark
+- Roboflow
+
+### Areas of Interest
+- Embedded Systems
+- Firmware Development
+- IoT Security
+- Cybersecurity
+- Computer Networks
