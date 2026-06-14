@@ -14,7 +14,6 @@ Expected Graduation: December 2026
 
 * C++
 * C
-* Python
 * Arduino
 
 ### Embedded Systems
@@ -25,7 +24,6 @@ Expected Graduation: December 2026
 * Embedded Systems Design
 * Sensor Integration
 * GPIO Programming
-* PWM Control
 * Serial Communication
 
 ### Communication Protocols
@@ -55,11 +53,9 @@ Expected Graduation: December 2026
 ### Tools & Platforms
 
 * Arduino IDE
-* Git
 * GitHub
 * Multisim
-* Wireshark
-* Roboflow
+  
 
 ## Featured Projects
 
@@ -93,4 +89,4 @@ Built an embedded traffic light control system using ESP32, LEDs, and push-butto
 ## Connect With Me
 
 * GitHub: https://github.com/Kelsang-Sherpa
-* LinkedIn: Add your LinkedIn URL
+* LinkedIn: www.linkedin.com/in/kelsang-sherpa-b72408235
