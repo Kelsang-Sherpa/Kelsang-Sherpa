@@ -76,7 +76,8 @@ Built an embedded traffic light control system using ESP32, LEDs, and push-butto
 
 ## Certifications
 
-* Cisco Networking Academy – Packet Tracer
+* Cisco Networking Academy - Packet Tracer
+* CompTIA Competency in Networking With Cisco Devices
 * PrintLab Certified Maker
 * NSLS Foundations of Leadership Certification
 
